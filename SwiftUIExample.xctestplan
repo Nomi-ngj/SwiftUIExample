@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "0016540B-C1A8-41BF-8BB7-BF23969769C8",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:SwiftUIExample.xcodeproj",
+      "identifier" : "8CE637942A0EAA7500454FD7",
+      "name" : "SwiftUIExample"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:SwiftUIExample.xcodeproj",
+        "identifier" : "8CE637A42A0EAA7600454FD7",
+        "name" : "SwiftUIExampleTests"
+      }
+    }
+  ],
+  "version" : 1
+}
